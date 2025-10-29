@@ -1,0 +1,2 @@
+This repository holds my handwritten solutions and thought process for various SQL exercises. The exercises were intentionally completed using a paper and pen to demonstrate a deep, non-digital understanding of database logic and query construction. This methodology forces meticulous syntax checking and the ability to mentally visualize complex joins and data flow without relying on immediate database feedback.
+All completed solutions are digitized using a mobile scanner to ensure legibility and ease of review.
